@@ -111,5 +111,4 @@ loop:
 	}
 
 	s.Fini()
-	os.Exit(0)
 }
