@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/demouth/mario-go"
+	"github.com/madrugada-labs/mario-go"
 	"github.com/gdamore/tcell"
 	"github.com/gdamore/tcell/encoding"
 	"os"
